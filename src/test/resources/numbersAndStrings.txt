@@ -1,0 +1,2023 @@
+-1, negative one
+-2, negative two
+-3, negative three
+-4, negative four
+-5, negative five
+-6, negative six
+-7, negative seven
+-8, negative eight
+-9, negative nine
+-10, negative ten
+-11, negative eleven
+-12, negative twelve
+-13, negative thirteen
+-14, negative fourteen
+-15, negative fifteen
+-16, negative sixteen
+-17, negative seventeen
+-18, negative eighteen
+-19, negative nineteen
+-20, negative twenty
+-21, negative twenty-one
+-22, negative twenty-two
+-23, negative twenty-three
+-24, negative twenty-four
+-25, negative twenty-five
+-26, negative twenty-six
+-27, negative twenty-seven
+-28, negative twenty-eight
+-29, negative twenty-nine
+-30, negative thirty
+-31, negative thirty-one
+-32, negative thirty-two
+-33, negative thirty-three
+-34, negative thirty-four
+-35, negative thirty-five
+-36, negative thirty-six
+-37, negative thirty-seven
+-38, negative thirty-eight
+-39, negative thirty-nine
+-40, negative forty
+-41, negative forty-one
+-42, negative forty-two
+-43, negative forty-three
+-44, negative forty-four
+-45, negative forty-five
+-46, negative forty-six
+-47, negative forty-seven
+-48, negative forty-eight
+-49, negative forty-nine
+-50, negative fifty
+-51, negative fifty-one
+-52, negative fifty-two
+-53, negative fifty-three
+-54, negative fifty-four
+-55, negative fifty-five
+-56, negative fifty-six
+-57, negative fifty-seven
+-58, negative fifty-eight
+-59, negative fifty-nine
+-60, negative sixty
+-61, negative sixty-one
+-62, negative sixty-two
+-63, negative sixty-three
+-64, negative sixty-four
+-65, negative sixty-five
+-66, negative sixty-six
+-67, negative sixty-seven
+-68, negative sixty-eight
+-69, negative sixty-nine
+-70, negative seventy
+-71, negative seventy-one
+-72, negative seventy-two
+-73, negative seventy-three
+-74, negative seventy-four
+-75, negative seventy-five
+-76, negative seventy-six
+-77, negative seventy-seven
+-78, negative seventy-eight
+-79, negative seventy-nine
+-80, negative eighty
+-81, negative eighty-one
+-82, negative eighty-two
+-83, negative eighty-three
+-84, negative eighty-four
+-85, negative eighty-five
+-86, negative eighty-six
+-87, negative eighty-seven
+-88, negative eighty-eight
+-89, negative eighty-nine
+-90, negative ninety
+-91, negative ninety-one
+-92, negative ninety-two
+-93, negative ninety-three
+-94, negative ninety-four
+-95, negative ninety-five
+-96, negative ninety-six
+-97, negative ninety-seven
+-98, negative ninety-eight
+-99, negative ninety-nine
+-100, negative one hundred
+-101, negative one hundred one
+-102, negative one hundred two
+-103, negative one hundred three
+-104, negative one hundred four
+-105, negative one hundred five
+-106, negative one hundred six
+-107, negative one hundred seven
+-108, negative one hundred eight
+-109, negative one hundred nine
+-110, negative one hundred ten
+-111, negative one hundred eleven
+-112, negative one hundred twelve
+-113, negative one hundred thirteen
+-114, negative one hundred fourteen
+-115, negative one hundred fifteen
+-116, negative one hundred sixteen
+-117, negative one hundred seventeen
+-118, negative one hundred eighteen
+-119, negative one hundred nineteen
+-120, negative one hundred twenty
+-121, negative one hundred twenty-one
+-122, negative one hundred twenty-two
+-123, negative one hundred twenty-three
+-124, negative one hundred twenty-four
+-125, negative one hundred twenty-five
+-126, negative one hundred twenty-six
+-127, negative one hundred twenty-seven
+-128, negative one hundred twenty-eight
+-129, negative one hundred twenty-nine
+-130, negative one hundred thirty
+-131, negative one hundred thirty-one
+-132, negative one hundred thirty-two
+-133, negative one hundred thirty-three
+-134, negative one hundred thirty-four
+-135, negative one hundred thirty-five
+-136, negative one hundred thirty-six
+-137, negative one hundred thirty-seven
+-138, negative one hundred thirty-eight
+-139, negative one hundred thirty-nine
+-140, negative one hundred forty
+-141, negative one hundred forty-one
+-142, negative one hundred forty-two
+-143, negative one hundred forty-three
+-144, negative one hundred forty-four
+-145, negative one hundred forty-five
+-146, negative one hundred forty-six
+-147, negative one hundred forty-seven
+-148, negative one hundred forty-eight
+-149, negative one hundred forty-nine
+-150, negative one hundred fifty
+-151, negative one hundred fifty-one
+-152, negative one hundred fifty-two
+-153, negative one hundred fifty-three
+-154, negative one hundred fifty-four
+-155, negative one hundred fifty-five
+-156, negative one hundred fifty-six
+-157, negative one hundred fifty-seven
+-158, negative one hundred fifty-eight
+-159, negative one hundred fifty-nine
+-160, negative one hundred sixty
+-161, negative one hundred sixty-one
+-162, negative one hundred sixty-two
+-163, negative one hundred sixty-three
+-164, negative one hundred sixty-four
+-165, negative one hundred sixty-five
+-166, negative one hundred sixty-six
+-167, negative one hundred sixty-seven
+-168, negative one hundred sixty-eight
+-169, negative one hundred sixty-nine
+-170, negative one hundred seventy
+-171, negative one hundred seventy-one
+-172, negative one hundred seventy-two
+-173, negative one hundred seventy-three
+-174, negative one hundred seventy-four
+-175, negative one hundred seventy-five
+-176, negative one hundred seventy-six
+-177, negative one hundred seventy-seven
+-178, negative one hundred seventy-eight
+-179, negative one hundred seventy-nine
+-180, negative one hundred eighty
+-181, negative one hundred eighty-one
+-182, negative one hundred eighty-two
+-183, negative one hundred eighty-three
+-184, negative one hundred eighty-four
+-185, negative one hundred eighty-five
+-186, negative one hundred eighty-six
+-187, negative one hundred eighty-seven
+-188, negative one hundred eighty-eight
+-189, negative one hundred eighty-nine
+-190, negative one hundred ninety
+-191, negative one hundred ninety-one
+-192, negative one hundred ninety-two
+-193, negative one hundred ninety-three
+-194, negative one hundred ninety-four
+-195, negative one hundred ninety-five
+-196, negative one hundred ninety-six
+-197, negative one hundred ninety-seven
+-198, negative one hundred ninety-eight
+-199, negative one hundred ninety-nine
+-200, negative two hundred
+-201, negative two hundred one
+-202, negative two hundred two
+-203, negative two hundred three
+-204, negative two hundred four
+-205, negative two hundred five
+-206, negative two hundred six
+-207, negative two hundred seven
+-208, negative two hundred eight
+-209, negative two hundred nine
+-210, negative two hundred ten
+-211, negative two hundred eleven
+-212, negative two hundred twelve
+-213, negative two hundred thirteen
+-214, negative two hundred fourteen
+-215, negative two hundred fifteen
+-216, negative two hundred sixteen
+-217, negative two hundred seventeen
+-218, negative two hundred eighteen
+-219, negative two hundred nineteen
+-220, negative two hundred twenty
+-221, negative two hundred twenty-one
+-222, negative two hundred twenty-two
+-223, negative two hundred twenty-three
+-224, negative two hundred twenty-four
+-225, negative two hundred twenty-five
+-226, negative two hundred twenty-six
+-227, negative two hundred twenty-seven
+-228, negative two hundred twenty-eight
+-229, negative two hundred twenty-nine
+-230, negative two hundred thirty
+-231, negative two hundred thirty-one
+-232, negative two hundred thirty-two
+-233, negative two hundred thirty-three
+-234, negative two hundred thirty-four
+-235, negative two hundred thirty-five
+-236, negative two hundred thirty-six
+-237, negative two hundred thirty-seven
+-238, negative two hundred thirty-eight
+-239, negative two hundred thirty-nine
+-240, negative two hundred forty
+-241, negative two hundred forty-one
+-242, negative two hundred forty-two
+-243, negative two hundred forty-three
+-244, negative two hundred forty-four
+-245, negative two hundred forty-five
+-246, negative two hundred forty-six
+-247, negative two hundred forty-seven
+-248, negative two hundred forty-eight
+-249, negative two hundred forty-nine
+-250, negative two hundred fifty
+-251, negative two hundred fifty-one
+-252, negative two hundred fifty-two
+-253, negative two hundred fifty-three
+-254, negative two hundred fifty-four
+-255, negative two hundred fifty-five
+-256, negative two hundred fifty-six
+-257, negative two hundred fifty-seven
+-258, negative two hundred fifty-eight
+-259, negative two hundred fifty-nine
+-260, negative two hundred sixty
+-261, negative two hundred sixty-one
+-262, negative two hundred sixty-two
+-263, negative two hundred sixty-three
+-264, negative two hundred sixty-four
+-265, negative two hundred sixty-five
+-266, negative two hundred sixty-six
+-267, negative two hundred sixty-seven
+-268, negative two hundred sixty-eight
+-269, negative two hundred sixty-nine
+-270, negative two hundred seventy
+-271, negative two hundred seventy-one
+-272, negative two hundred seventy-two
+-273, negative two hundred seventy-three
+-274, negative two hundred seventy-four
+-275, negative two hundred seventy-five
+-276, negative two hundred seventy-six
+-277, negative two hundred seventy-seven
+-278, negative two hundred seventy-eight
+-279, negative two hundred seventy-nine
+-280, negative two hundred eighty
+-281, negative two hundred eighty-one
+-282, negative two hundred eighty-two
+-283, negative two hundred eighty-three
+-284, negative two hundred eighty-four
+-285, negative two hundred eighty-five
+-286, negative two hundred eighty-six
+-287, negative two hundred eighty-seven
+-288, negative two hundred eighty-eight
+-289, negative two hundred eighty-nine
+-290, negative two hundred ninety
+-291, negative two hundred ninety-one
+-292, negative two hundred ninety-two
+-293, negative two hundred ninety-three
+-294, negative two hundred ninety-four
+-295, negative two hundred ninety-five
+-296, negative two hundred ninety-six
+-297, negative two hundred ninety-seven
+-298, negative two hundred ninety-eight
+-299, negative two hundred ninety-nine
+-300, negative three hundred
+-301, negative three hundred one
+-302, negative three hundred two
+-303, negative three hundred three
+-304, negative three hundred four
+-305, negative three hundred five
+-306, negative three hundred six
+-307, negative three hundred seven
+-308, negative three hundred eight
+-309, negative three hundred nine
+-310, negative three hundred ten
+-311, negative three hundred eleven
+-312, negative three hundred twelve
+-313, negative three hundred thirteen
+-314, negative three hundred fourteen
+-315, negative three hundred fifteen
+-316, negative three hundred sixteen
+-317, negative three hundred seventeen
+-318, negative three hundred eighteen
+-319, negative three hundred nineteen
+-320, negative three hundred twenty
+-321, negative three hundred twenty-one
+-322, negative three hundred twenty-two
+-323, negative three hundred twenty-three
+-324, negative three hundred twenty-four
+-325, negative three hundred twenty-five
+-326, negative three hundred twenty-six
+-327, negative three hundred twenty-seven
+-328, negative three hundred twenty-eight
+-329, negative three hundred twenty-nine
+-330, negative three hundred thirty
+-331, negative three hundred thirty-one
+-332, negative three hundred thirty-two
+-333, negative three hundred thirty-three
+-334, negative three hundred thirty-four
+-335, negative three hundred thirty-five
+-336, negative three hundred thirty-six
+-337, negative three hundred thirty-seven
+-338, negative three hundred thirty-eight
+-339, negative three hundred thirty-nine
+-340, negative three hundred forty
+-341, negative three hundred forty-one
+-342, negative three hundred forty-two
+-343, negative three hundred forty-three
+-344, negative three hundred forty-four
+-345, negative three hundred forty-five
+-346, negative three hundred forty-six
+-347, negative three hundred forty-seven
+-348, negative three hundred forty-eight
+-349, negative three hundred forty-nine
+-350, negative three hundred fifty
+-351, negative three hundred fifty-one
+-352, negative three hundred fifty-two
+-353, negative three hundred fifty-three
+-354, negative three hundred fifty-four
+-355, negative three hundred fifty-five
+-356, negative three hundred fifty-six
+-357, negative three hundred fifty-seven
+-358, negative three hundred fifty-eight
+-359, negative three hundred fifty-nine
+-360, negative three hundred sixty
+-361, negative three hundred sixty-one
+-362, negative three hundred sixty-two
+-363, negative three hundred sixty-three
+-364, negative three hundred sixty-four
+-365, negative three hundred sixty-five
+-366, negative three hundred sixty-six
+-367, negative three hundred sixty-seven
+-368, negative three hundred sixty-eight
+-369, negative three hundred sixty-nine
+-370, negative three hundred seventy
+-371, negative three hundred seventy-one
+-372, negative three hundred seventy-two
+-373, negative three hundred seventy-three
+-374, negative three hundred seventy-four
+-375, negative three hundred seventy-five
+-376, negative three hundred seventy-six
+-377, negative three hundred seventy-seven
+-378, negative three hundred seventy-eight
+-379, negative three hundred seventy-nine
+-380, negative three hundred eighty
+-381, negative three hundred eighty-one
+-382, negative three hundred eighty-two
+-383, negative three hundred eighty-three
+-384, negative three hundred eighty-four
+-385, negative three hundred eighty-five
+-386, negative three hundred eighty-six
+-387, negative three hundred eighty-seven
+-388, negative three hundred eighty-eight
+-389, negative three hundred eighty-nine
+-390, negative three hundred ninety
+-391, negative three hundred ninety-one
+-392, negative three hundred ninety-two
+-393, negative three hundred ninety-three
+-394, negative three hundred ninety-four
+-395, negative three hundred ninety-five
+-396, negative three hundred ninety-six
+-397, negative three hundred ninety-seven
+-398, negative three hundred ninety-eight
+-399, negative three hundred ninety-nine
+-400, negative four hundred
+-401, negative four hundred one
+-402, negative four hundred two
+-403, negative four hundred three
+-404, negative four hundred four
+-405, negative four hundred five
+-406, negative four hundred six
+-407, negative four hundred seven
+-408, negative four hundred eight
+-409, negative four hundred nine
+-410, negative four hundred ten
+-411, negative four hundred eleven
+-412, negative four hundred twelve
+-413, negative four hundred thirteen
+-414, negative four hundred fourteen
+-415, negative four hundred fifteen
+-416, negative four hundred sixteen
+-417, negative four hundred seventeen
+-418, negative four hundred eighteen
+-419, negative four hundred nineteen
+-420, negative four hundred twenty
+-421, negative four hundred twenty-one
+-422, negative four hundred twenty-two
+-423, negative four hundred twenty-three
+-424, negative four hundred twenty-four
+-425, negative four hundred twenty-five
+-426, negative four hundred twenty-six
+-427, negative four hundred twenty-seven
+-428, negative four hundred twenty-eight
+-429, negative four hundred twenty-nine
+-430, negative four hundred thirty
+-431, negative four hundred thirty-one
+-432, negative four hundred thirty-two
+-433, negative four hundred thirty-three
+-434, negative four hundred thirty-four
+-435, negative four hundred thirty-five
+-436, negative four hundred thirty-six
+-437, negative four hundred thirty-seven
+-438, negative four hundred thirty-eight
+-439, negative four hundred thirty-nine
+-440, negative four hundred forty
+-441, negative four hundred forty-one
+-442, negative four hundred forty-two
+-443, negative four hundred forty-three
+-444, negative four hundred forty-four
+-445, negative four hundred forty-five
+-446, negative four hundred forty-six
+-447, negative four hundred forty-seven
+-448, negative four hundred forty-eight
+-449, negative four hundred forty-nine
+-450, negative four hundred fifty
+-451, negative four hundred fifty-one
+-452, negative four hundred fifty-two
+-453, negative four hundred fifty-three
+-454, negative four hundred fifty-four
+-455, negative four hundred fifty-five
+-456, negative four hundred fifty-six
+-457, negative four hundred fifty-seven
+-458, negative four hundred fifty-eight
+-459, negative four hundred fifty-nine
+-460, negative four hundred sixty
+-461, negative four hundred sixty-one
+-462, negative four hundred sixty-two
+-463, negative four hundred sixty-three
+-464, negative four hundred sixty-four
+-465, negative four hundred sixty-five
+-466, negative four hundred sixty-six
+-467, negative four hundred sixty-seven
+-468, negative four hundred sixty-eight
+-469, negative four hundred sixty-nine
+-470, negative four hundred seventy
+-471, negative four hundred seventy-one
+-472, negative four hundred seventy-two
+-473, negative four hundred seventy-three
+-474, negative four hundred seventy-four
+-475, negative four hundred seventy-five
+-476, negative four hundred seventy-six
+-477, negative four hundred seventy-seven
+-478, negative four hundred seventy-eight
+-479, negative four hundred seventy-nine
+-480, negative four hundred eighty
+-481, negative four hundred eighty-one
+-482, negative four hundred eighty-two
+-483, negative four hundred eighty-three
+-484, negative four hundred eighty-four
+-485, negative four hundred eighty-five
+-486, negative four hundred eighty-six
+-487, negative four hundred eighty-seven
+-488, negative four hundred eighty-eight
+-489, negative four hundred eighty-nine
+-490, negative four hundred ninety
+-491, negative four hundred ninety-one
+-492, negative four hundred ninety-two
+-493, negative four hundred ninety-three
+-494, negative four hundred ninety-four
+-495, negative four hundred ninety-five
+-496, negative four hundred ninety-six
+-497, negative four hundred ninety-seven
+-498, negative four hundred ninety-eight
+-499, negative four hundred ninety-nine
+-500, negative five hundred
+-501, negative five hundred one
+-502, negative five hundred two
+-503, negative five hundred three
+-504, negative five hundred four
+-505, negative five hundred five
+-506, negative five hundred six
+-507, negative five hundred seven
+-508, negative five hundred eight
+-509, negative five hundred nine
+-510, negative five hundred ten
+-511, negative five hundred eleven
+-512, negative five hundred twelve
+-513, negative five hundred thirteen
+-514, negative five hundred fourteen
+-515, negative five hundred fifteen
+-516, negative five hundred sixteen
+-517, negative five hundred seventeen
+-518, negative five hundred eighteen
+-519, negative five hundred nineteen
+-520, negative five hundred twenty
+-521, negative five hundred twenty-one
+-522, negative five hundred twenty-two
+-523, negative five hundred twenty-three
+-524, negative five hundred twenty-four
+-525, negative five hundred twenty-five
+-526, negative five hundred twenty-six
+-527, negative five hundred twenty-seven
+-528, negative five hundred twenty-eight
+-529, negative five hundred twenty-nine
+-530, negative five hundred thirty
+-531, negative five hundred thirty-one
+-532, negative five hundred thirty-two
+-533, negative five hundred thirty-three
+-534, negative five hundred thirty-four
+-535, negative five hundred thirty-five
+-536, negative five hundred thirty-six
+-537, negative five hundred thirty-seven
+-538, negative five hundred thirty-eight
+-539, negative five hundred thirty-nine
+-540, negative five hundred forty
+-541, negative five hundred forty-one
+-542, negative five hundred forty-two
+-543, negative five hundred forty-three
+-544, negative five hundred forty-four
+-545, negative five hundred forty-five
+-546, negative five hundred forty-six
+-547, negative five hundred forty-seven
+-548, negative five hundred forty-eight
+-549, negative five hundred forty-nine
+-550, negative five hundred fifty
+-551, negative five hundred fifty-one
+-552, negative five hundred fifty-two
+-553, negative five hundred fifty-three
+-554, negative five hundred fifty-four
+-555, negative five hundred fifty-five
+-556, negative five hundred fifty-six
+-557, negative five hundred fifty-seven
+-558, negative five hundred fifty-eight
+-559, negative five hundred fifty-nine
+-560, negative five hundred sixty
+-561, negative five hundred sixty-one
+-562, negative five hundred sixty-two
+-563, negative five hundred sixty-three
+-564, negative five hundred sixty-four
+-565, negative five hundred sixty-five
+-566, negative five hundred sixty-six
+-567, negative five hundred sixty-seven
+-568, negative five hundred sixty-eight
+-569, negative five hundred sixty-nine
+-570, negative five hundred seventy
+-571, negative five hundred seventy-one
+-572, negative five hundred seventy-two
+-573, negative five hundred seventy-three
+-574, negative five hundred seventy-four
+-575, negative five hundred seventy-five
+-576, negative five hundred seventy-six
+-577, negative five hundred seventy-seven
+-578, negative five hundred seventy-eight
+-579, negative five hundred seventy-nine
+-580, negative five hundred eighty
+-581, negative five hundred eighty-one
+-582, negative five hundred eighty-two
+-583, negative five hundred eighty-three
+-584, negative five hundred eighty-four
+-585, negative five hundred eighty-five
+-586, negative five hundred eighty-six
+-587, negative five hundred eighty-seven
+-588, negative five hundred eighty-eight
+-589, negative five hundred eighty-nine
+-590, negative five hundred ninety
+-591, negative five hundred ninety-one
+-592, negative five hundred ninety-two
+-593, negative five hundred ninety-three
+-594, negative five hundred ninety-four
+-595, negative five hundred ninety-five
+-596, negative five hundred ninety-six
+-597, negative five hundred ninety-seven
+-598, negative five hundred ninety-eight
+-599, negative five hundred ninety-nine
+-600, negative six hundred
+-601, negative six hundred one
+-602, negative six hundred two
+-603, negative six hundred three
+-604, negative six hundred four
+-605, negative six hundred five
+-606, negative six hundred six
+-607, negative six hundred seven
+-608, negative six hundred eight
+-609, negative six hundred nine
+-610, negative six hundred ten
+-611, negative six hundred eleven
+-612, negative six hundred twelve
+-613, negative six hundred thirteen
+-614, negative six hundred fourteen
+-615, negative six hundred fifteen
+-616, negative six hundred sixteen
+-617, negative six hundred seventeen
+-618, negative six hundred eighteen
+-619, negative six hundred nineteen
+-620, negative six hundred twenty
+-621, negative six hundred twenty-one
+-622, negative six hundred twenty-two
+-623, negative six hundred twenty-three
+-624, negative six hundred twenty-four
+-625, negative six hundred twenty-five
+-626, negative six hundred twenty-six
+-627, negative six hundred twenty-seven
+-628, negative six hundred twenty-eight
+-629, negative six hundred twenty-nine
+-630, negative six hundred thirty
+-631, negative six hundred thirty-one
+-632, negative six hundred thirty-two
+-633, negative six hundred thirty-three
+-634, negative six hundred thirty-four
+-635, negative six hundred thirty-five
+-636, negative six hundred thirty-six
+-637, negative six hundred thirty-seven
+-638, negative six hundred thirty-eight
+-639, negative six hundred thirty-nine
+-640, negative six hundred forty
+-641, negative six hundred forty-one
+-642, negative six hundred forty-two
+-643, negative six hundred forty-three
+-644, negative six hundred forty-four
+-645, negative six hundred forty-five
+-646, negative six hundred forty-six
+-647, negative six hundred forty-seven
+-648, negative six hundred forty-eight
+-649, negative six hundred forty-nine
+-650, negative six hundred fifty
+-651, negative six hundred fifty-one
+-652, negative six hundred fifty-two
+-653, negative six hundred fifty-three
+-654, negative six hundred fifty-four
+-655, negative six hundred fifty-five
+-656, negative six hundred fifty-six
+-657, negative six hundred fifty-seven
+-658, negative six hundred fifty-eight
+-659, negative six hundred fifty-nine
+-660, negative six hundred sixty
+-661, negative six hundred sixty-one
+-662, negative six hundred sixty-two
+-663, negative six hundred sixty-three
+-664, negative six hundred sixty-four
+-665, negative six hundred sixty-five
+-666, negative six hundred sixty-six
+-667, negative six hundred sixty-seven
+-668, negative six hundred sixty-eight
+-669, negative six hundred sixty-nine
+-670, negative six hundred seventy
+-671, negative six hundred seventy-one
+-672, negative six hundred seventy-two
+-673, negative six hundred seventy-three
+-674, negative six hundred seventy-four
+-675, negative six hundred seventy-five
+-676, negative six hundred seventy-six
+-677, negative six hundred seventy-seven
+-678, negative six hundred seventy-eight
+-679, negative six hundred seventy-nine
+-680, negative six hundred eighty
+-681, negative six hundred eighty-one
+-682, negative six hundred eighty-two
+-683, negative six hundred eighty-three
+-684, negative six hundred eighty-four
+-685, negative six hundred eighty-five
+-686, negative six hundred eighty-six
+-687, negative six hundred eighty-seven
+-688, negative six hundred eighty-eight
+-689, negative six hundred eighty-nine
+-690, negative six hundred ninety
+-691, negative six hundred ninety-one
+-692, negative six hundred ninety-two
+-693, negative six hundred ninety-three
+-694, negative six hundred ninety-four
+-695, negative six hundred ninety-five
+-696, negative six hundred ninety-six
+-697, negative six hundred ninety-seven
+-698, negative six hundred ninety-eight
+-699, negative six hundred ninety-nine
+-700, negative seven hundred
+-701, negative seven hundred one
+-702, negative seven hundred two
+-703, negative seven hundred three
+-704, negative seven hundred four
+-705, negative seven hundred five
+-706, negative seven hundred six
+-707, negative seven hundred seven
+-708, negative seven hundred eight
+-709, negative seven hundred nine
+-710, negative seven hundred ten
+-711, negative seven hundred eleven
+-712, negative seven hundred twelve
+-713, negative seven hundred thirteen
+-714, negative seven hundred fourteen
+-715, negative seven hundred fifteen
+-716, negative seven hundred sixteen
+-717, negative seven hundred seventeen
+-718, negative seven hundred eighteen
+-719, negative seven hundred nineteen
+-720, negative seven hundred twenty
+-721, negative seven hundred twenty-one
+-722, negative seven hundred twenty-two
+-723, negative seven hundred twenty-three
+-724, negative seven hundred twenty-four
+-725, negative seven hundred twenty-five
+-726, negative seven hundred twenty-six
+-727, negative seven hundred twenty-seven
+-728, negative seven hundred twenty-eight
+-729, negative seven hundred twenty-nine
+-730, negative seven hundred thirty
+-731, negative seven hundred thirty-one
+-732, negative seven hundred thirty-two
+-733, negative seven hundred thirty-three
+-734, negative seven hundred thirty-four
+-735, negative seven hundred thirty-five
+-736, negative seven hundred thirty-six
+-737, negative seven hundred thirty-seven
+-738, negative seven hundred thirty-eight
+-739, negative seven hundred thirty-nine
+-740, negative seven hundred forty
+-741, negative seven hundred forty-one
+-742, negative seven hundred forty-two
+-743, negative seven hundred forty-three
+-744, negative seven hundred forty-four
+-745, negative seven hundred forty-five
+-746, negative seven hundred forty-six
+-747, negative seven hundred forty-seven
+-748, negative seven hundred forty-eight
+-749, negative seven hundred forty-nine
+-750, negative seven hundred fifty
+-751, negative seven hundred fifty-one
+-752, negative seven hundred fifty-two
+-753, negative seven hundred fifty-three
+-754, negative seven hundred fifty-four
+-755, negative seven hundred fifty-five
+-756, negative seven hundred fifty-six
+-757, negative seven hundred fifty-seven
+-758, negative seven hundred fifty-eight
+-759, negative seven hundred fifty-nine
+-760, negative seven hundred sixty
+-761, negative seven hundred sixty-one
+-762, negative seven hundred sixty-two
+-763, negative seven hundred sixty-three
+-764, negative seven hundred sixty-four
+-765, negative seven hundred sixty-five
+-766, negative seven hundred sixty-six
+-767, negative seven hundred sixty-seven
+-768, negative seven hundred sixty-eight
+-769, negative seven hundred sixty-nine
+-770, negative seven hundred seventy
+-771, negative seven hundred seventy-one
+-772, negative seven hundred seventy-two
+-773, negative seven hundred seventy-three
+-774, negative seven hundred seventy-four
+-775, negative seven hundred seventy-five
+-776, negative seven hundred seventy-six
+-777, negative seven hundred seventy-seven
+-778, negative seven hundred seventy-eight
+-779, negative seven hundred seventy-nine
+-780, negative seven hundred eighty
+-781, negative seven hundred eighty-one
+-782, negative seven hundred eighty-two
+-783, negative seven hundred eighty-three
+-784, negative seven hundred eighty-four
+-785, negative seven hundred eighty-five
+-786, negative seven hundred eighty-six
+-787, negative seven hundred eighty-seven
+-788, negative seven hundred eighty-eight
+-789, negative seven hundred eighty-nine
+-790, negative seven hundred ninety
+-791, negative seven hundred ninety-one
+-792, negative seven hundred ninety-two
+-793, negative seven hundred ninety-three
+-794, negative seven hundred ninety-four
+-795, negative seven hundred ninety-five
+-796, negative seven hundred ninety-six
+-797, negative seven hundred ninety-seven
+-798, negative seven hundred ninety-eight
+-799, negative seven hundred ninety-nine
+-800, negative eight hundred
+-801, negative eight hundred one
+-802, negative eight hundred two
+-803, negative eight hundred three
+-804, negative eight hundred four
+-805, negative eight hundred five
+-806, negative eight hundred six
+-807, negative eight hundred seven
+-808, negative eight hundred eight
+-809, negative eight hundred nine
+-810, negative eight hundred ten
+-811, negative eight hundred eleven
+-812, negative eight hundred twelve
+-813, negative eight hundred thirteen
+-814, negative eight hundred fourteen
+-815, negative eight hundred fifteen
+-816, negative eight hundred sixteen
+-817, negative eight hundred seventeen
+-818, negative eight hundred eighteen
+-819, negative eight hundred nineteen
+-820, negative eight hundred twenty
+-821, negative eight hundred twenty-one
+-822, negative eight hundred twenty-two
+-823, negative eight hundred twenty-three
+-824, negative eight hundred twenty-four
+-825, negative eight hundred twenty-five
+-826, negative eight hundred twenty-six
+-827, negative eight hundred twenty-seven
+-828, negative eight hundred twenty-eight
+-829, negative eight hundred twenty-nine
+-830, negative eight hundred thirty
+-831, negative eight hundred thirty-one
+-832, negative eight hundred thirty-two
+-833, negative eight hundred thirty-three
+-834, negative eight hundred thirty-four
+-835, negative eight hundred thirty-five
+-836, negative eight hundred thirty-six
+-837, negative eight hundred thirty-seven
+-838, negative eight hundred thirty-eight
+-839, negative eight hundred thirty-nine
+-840, negative eight hundred forty
+-841, negative eight hundred forty-one
+-842, negative eight hundred forty-two
+-843, negative eight hundred forty-three
+-844, negative eight hundred forty-four
+-845, negative eight hundred forty-five
+-846, negative eight hundred forty-six
+-847, negative eight hundred forty-seven
+-848, negative eight hundred forty-eight
+-849, negative eight hundred forty-nine
+-850, negative eight hundred fifty
+-851, negative eight hundred fifty-one
+-852, negative eight hundred fifty-two
+-853, negative eight hundred fifty-three
+-854, negative eight hundred fifty-four
+-855, negative eight hundred fifty-five
+-856, negative eight hundred fifty-six
+-857, negative eight hundred fifty-seven
+-858, negative eight hundred fifty-eight
+-859, negative eight hundred fifty-nine
+-860, negative eight hundred sixty
+-861, negative eight hundred sixty-one
+-862, negative eight hundred sixty-two
+-863, negative eight hundred sixty-three
+-864, negative eight hundred sixty-four
+-865, negative eight hundred sixty-five
+-866, negative eight hundred sixty-six
+-867, negative eight hundred sixty-seven
+-868, negative eight hundred sixty-eight
+-869, negative eight hundred sixty-nine
+-870, negative eight hundred seventy
+-871, negative eight hundred seventy-one
+-872, negative eight hundred seventy-two
+-873, negative eight hundred seventy-three
+-874, negative eight hundred seventy-four
+-875, negative eight hundred seventy-five
+-876, negative eight hundred seventy-six
+-877, negative eight hundred seventy-seven
+-878, negative eight hundred seventy-eight
+-879, negative eight hundred seventy-nine
+-880, negative eight hundred eighty
+-881, negative eight hundred eighty-one
+-882, negative eight hundred eighty-two
+-883, negative eight hundred eighty-three
+-884, negative eight hundred eighty-four
+-885, negative eight hundred eighty-five
+-886, negative eight hundred eighty-six
+-887, negative eight hundred eighty-seven
+-888, negative eight hundred eighty-eight
+-889, negative eight hundred eighty-nine
+-890, negative eight hundred ninety
+-891, negative eight hundred ninety-one
+-892, negative eight hundred ninety-two
+-893, negative eight hundred ninety-three
+-894, negative eight hundred ninety-four
+-895, negative eight hundred ninety-five
+-896, negative eight hundred ninety-six
+-897, negative eight hundred ninety-seven
+-898, negative eight hundred ninety-eight
+-899, negative eight hundred ninety-nine
+-900, negative nine hundred
+-901, negative nine hundred one
+-902, negative nine hundred two
+-903, negative nine hundred three
+-904, negative nine hundred four
+-905, negative nine hundred five
+-906, negative nine hundred six
+-907, negative nine hundred seven
+-908, negative nine hundred eight
+-909, negative nine hundred nine
+-910, negative nine hundred ten
+-911, negative nine hundred eleven
+-912, negative nine hundred twelve
+-913, negative nine hundred thirteen
+-914, negative nine hundred fourteen
+-915, negative nine hundred fifteen
+-916, negative nine hundred sixteen
+-917, negative nine hundred seventeen
+-918, negative nine hundred eighteen
+-919, negative nine hundred nineteen
+-920, negative nine hundred twenty
+-921, negative nine hundred twenty-one
+-922, negative nine hundred twenty-two
+-923, negative nine hundred twenty-three
+-924, negative nine hundred twenty-four
+-925, negative nine hundred twenty-five
+-926, negative nine hundred twenty-six
+-927, negative nine hundred twenty-seven
+-928, negative nine hundred twenty-eight
+-929, negative nine hundred twenty-nine
+-930, negative nine hundred thirty
+-931, negative nine hundred thirty-one
+-932, negative nine hundred thirty-two
+-933, negative nine hundred thirty-three
+-934, negative nine hundred thirty-four
+-935, negative nine hundred thirty-five
+-936, negative nine hundred thirty-six
+-937, negative nine hundred thirty-seven
+-938, negative nine hundred thirty-eight
+-939, negative nine hundred thirty-nine
+-940, negative nine hundred forty
+-941, negative nine hundred forty-one
+-942, negative nine hundred forty-two
+-943, negative nine hundred forty-three
+-944, negative nine hundred forty-four
+-945, negative nine hundred forty-five
+-946, negative nine hundred forty-six
+-947, negative nine hundred forty-seven
+-948, negative nine hundred forty-eight
+-949, negative nine hundred forty-nine
+-950, negative nine hundred fifty
+-951, negative nine hundred fifty-one
+-952, negative nine hundred fifty-two
+-953, negative nine hundred fifty-three
+-954, negative nine hundred fifty-four
+-955, negative nine hundred fifty-five
+-956, negative nine hundred fifty-six
+-957, negative nine hundred fifty-seven
+-958, negative nine hundred fifty-eight
+-959, negative nine hundred fifty-nine
+-960, negative nine hundred sixty
+-961, negative nine hundred sixty-one
+-962, negative nine hundred sixty-two
+-963, negative nine hundred sixty-three
+-964, negative nine hundred sixty-four
+-965, negative nine hundred sixty-five
+-966, negative nine hundred sixty-six
+-967, negative nine hundred sixty-seven
+-968, negative nine hundred sixty-eight
+-969, negative nine hundred sixty-nine
+-970, negative nine hundred seventy
+-971, negative nine hundred seventy-one
+-972, negative nine hundred seventy-two
+-973, negative nine hundred seventy-three
+-974, negative nine hundred seventy-four
+-975, negative nine hundred seventy-five
+-976, negative nine hundred seventy-six
+-977, negative nine hundred seventy-seven
+-978, negative nine hundred seventy-eight
+-979, negative nine hundred seventy-nine
+-980, negative nine hundred eighty
+-981, negative nine hundred eighty-one
+-982, negative nine hundred eighty-two
+-983, negative nine hundred eighty-three
+-984, negative nine hundred eighty-four
+-985, negative nine hundred eighty-five
+-986, negative nine hundred eighty-six
+-987, negative nine hundred eighty-seven
+-988, negative nine hundred eighty-eight
+-989, negative nine hundred eighty-nine
+-990, negative nine hundred ninety
+-991, negative nine hundred ninety-one
+-992, negative nine hundred ninety-two
+-993, negative nine hundred ninety-three
+-994, negative nine hundred ninety-four
+-995, negative nine hundred ninety-five
+-996, negative nine hundred ninety-six
+-997, negative nine hundred ninety-seven
+-998, negative nine hundred ninety-eight
+-999, negative nine hundred ninety-nine
+-1000, negative one thousand
+0,zero
+1,one
+2,two
+3,three
+4,four
+5,five
+6,six
+7,seven
+8,eight
+9,nine
+10,ten
+11,eleven
+12,twelve
+13,thirteen
+14,fourteen
+15,fifteen
+16,sixteen
+17,seventeen
+18,eighteen
+19,nineteen
+20,twenty
+21,twenty-one
+22,twenty-two
+23,twenty-three
+24,twenty-four
+25,twenty-five
+26,twenty-six
+27,twenty-seven
+28,twenty-eight
+29,twenty-nine
+30,thirty
+31,thirty-one
+32,thirty-two
+33,thirty-three
+34,thirty-four
+35,thirty-five
+36,thirty-six
+37,thirty-seven
+38,thirty-eight
+39,thirty-nine
+40,forty
+41,forty-one
+42,forty-two
+43,forty-three
+44,forty-four
+45,forty-five
+46,forty-six
+47,forty-seven
+48,forty-eight
+49,forty-nine
+50,fifty
+51,fifty-one
+52,fifty-two
+53,fifty-three
+54,fifty-four
+55,fifty-five
+56,fifty-six
+57,fifty-seven
+58,fifty-eight
+59,fifty-nine
+60,sixty
+61,sixty-one
+62,sixty-two
+63,sixty-three
+64,sixty-four
+65,sixty-five
+66,sixty-six
+67,sixty-seven
+68,sixty-eight
+69,sixty-nine
+70,seventy
+71,seventy-one
+72,seventy-two
+73,seventy-three
+74,seventy-four
+75,seventy-five
+76,seventy-six
+77,seventy-seven
+78,seventy-eight
+79,seventy-nine
+80,eighty
+81,eighty-one
+82,eighty-two
+83,eighty-three
+84,eighty-four
+85,eighty-five
+86,eighty-six
+87,eighty-seven
+88,eighty-eight
+89,eighty-nine
+90,ninety
+91,ninety-one
+92,ninety-two
+93,ninety-three
+94,ninety-four
+95,ninety-five
+96,ninety-six
+97,ninety-seven
+98,ninety-eight
+99,ninety-nine
+100,one hundred
+101,one hundred one
+102,one hundred two
+103,one hundred three
+104,one hundred four
+105,one hundred five
+106,one hundred six
+107,one hundred seven
+108,one hundred eight
+109,one hundred nine
+110,one hundred ten
+111,one hundred eleven
+112,one hundred twelve
+113,one hundred thirteen
+114,one hundred fourteen
+115,one hundred fifteen
+116,one hundred sixteen
+117,one hundred seventeen
+118,one hundred eighteen
+119,one hundred nineteen
+120,one hundred twenty
+121,one hundred twenty-one
+122,one hundred twenty-two
+123,one hundred twenty-three
+124,one hundred twenty-four
+125,one hundred twenty-five
+126,one hundred twenty-six
+127,one hundred twenty-seven
+128,one hundred twenty-eight
+129,one hundred twenty-nine
+130,one hundred thirty
+131,one hundred thirty-one
+132,one hundred thirty-two
+133,one hundred thirty-three
+134,one hundred thirty-four
+135,one hundred thirty-five
+136,one hundred thirty-six
+137,one hundred thirty-seven
+138,one hundred thirty-eight
+139,one hundred thirty-nine
+140,one hundred forty
+141,one hundred forty-one
+142,one hundred forty-two
+143,one hundred forty-three
+144,one hundred forty-four
+145,one hundred forty-five
+146,one hundred forty-six
+147,one hundred forty-seven
+148,one hundred forty-eight
+149,one hundred forty-nine
+150,one hundred fifty
+151,one hundred fifty-one
+152,one hundred fifty-two
+153,one hundred fifty-three
+154,one hundred fifty-four
+155,one hundred fifty-five
+156,one hundred fifty-six
+157,one hundred fifty-seven
+158,one hundred fifty-eight
+159,one hundred fifty-nine
+160,one hundred sixty
+161,one hundred sixty-one
+162,one hundred sixty-two
+163,one hundred sixty-three
+164,one hundred sixty-four
+165,one hundred sixty-five
+166,one hundred sixty-six
+167,one hundred sixty-seven
+168,one hundred sixty-eight
+169,one hundred sixty-nine
+170,one hundred seventy
+171,one hundred seventy-one
+172,one hundred seventy-two
+173,one hundred seventy-three
+174,one hundred seventy-four
+175,one hundred seventy-five
+176,one hundred seventy-six
+177,one hundred seventy-seven
+178,one hundred seventy-eight
+179,one hundred seventy-nine
+180,one hundred eighty
+181,one hundred eighty-one
+182,one hundred eighty-two
+183,one hundred eighty-three
+184,one hundred eighty-four
+185,one hundred eighty-five
+186,one hundred eighty-six
+187,one hundred eighty-seven
+188,one hundred eighty-eight
+189,one hundred eighty-nine
+190,one hundred ninety
+191,one hundred ninety-one
+192,one hundred ninety-two
+193,one hundred ninety-three
+194,one hundred ninety-four
+195,one hundred ninety-five
+196,one hundred ninety-six
+197,one hundred ninety-seven
+198,one hundred ninety-eight
+199,one hundred ninety-nine
+200,two hundred
+201,two hundred one
+202,two hundred two
+203,two hundred three
+204,two hundred four
+205,two hundred five
+206,two hundred six
+207,two hundred seven
+208,two hundred eight
+209,two hundred nine
+210,two hundred ten
+211,two hundred eleven
+212,two hundred twelve
+213,two hundred thirteen
+214,two hundred fourteen
+215,two hundred fifteen
+216,two hundred sixteen
+217,two hundred seventeen
+218,two hundred eighteen
+219,two hundred nineteen
+220,two hundred twenty
+221,two hundred twenty-one
+222,two hundred twenty-two
+223,two hundred twenty-three
+224,two hundred twenty-four
+225,two hundred twenty-five
+226,two hundred twenty-six
+227,two hundred twenty-seven
+228,two hundred twenty-eight
+229,two hundred twenty-nine
+230,two hundred thirty
+231,two hundred thirty-one
+232,two hundred thirty-two
+233,two hundred thirty-three
+234,two hundred thirty-four
+235,two hundred thirty-five
+236,two hundred thirty-six
+237,two hundred thirty-seven
+238,two hundred thirty-eight
+239,two hundred thirty-nine
+240,two hundred forty
+241,two hundred forty-one
+242,two hundred forty-two
+243,two hundred forty-three
+244,two hundred forty-four
+245,two hundred forty-five
+246,two hundred forty-six
+247,two hundred forty-seven
+248,two hundred forty-eight
+249,two hundred forty-nine
+250,two hundred fifty
+251,two hundred fifty-one
+252,two hundred fifty-two
+253,two hundred fifty-three
+254,two hundred fifty-four
+255,two hundred fifty-five
+256,two hundred fifty-six
+257,two hundred fifty-seven
+258,two hundred fifty-eight
+259,two hundred fifty-nine
+260,two hundred sixty
+261,two hundred sixty-one
+262,two hundred sixty-two
+263,two hundred sixty-three
+264,two hundred sixty-four
+265,two hundred sixty-five
+266,two hundred sixty-six
+267,two hundred sixty-seven
+268,two hundred sixty-eight
+269,two hundred sixty-nine
+270,two hundred seventy
+271,two hundred seventy-one
+272,two hundred seventy-two
+273,two hundred seventy-three
+274,two hundred seventy-four
+275,two hundred seventy-five
+276,two hundred seventy-six
+277,two hundred seventy-seven
+278,two hundred seventy-eight
+279,two hundred seventy-nine
+280,two hundred eighty
+281,two hundred eighty-one
+282,two hundred eighty-two
+283,two hundred eighty-three
+284,two hundred eighty-four
+285,two hundred eighty-five
+286,two hundred eighty-six
+287,two hundred eighty-seven
+288,two hundred eighty-eight
+289,two hundred eighty-nine
+290,two hundred ninety
+291,two hundred ninety-one
+292,two hundred ninety-two
+293,two hundred ninety-three
+294,two hundred ninety-four
+295,two hundred ninety-five
+296,two hundred ninety-six
+297,two hundred ninety-seven
+298,two hundred ninety-eight
+299,two hundred ninety-nine
+300,three hundred
+301,three hundred one
+302,three hundred two
+303,three hundred three
+304,three hundred four
+305,three hundred five
+306,three hundred six
+307,three hundred seven
+308,three hundred eight
+309,three hundred nine
+310,three hundred ten
+311,three hundred eleven
+312,three hundred twelve
+313,three hundred thirteen
+314,three hundred fourteen
+315,three hundred fifteen
+316,three hundred sixteen
+317,three hundred seventeen
+318,three hundred eighteen
+319,three hundred nineteen
+320,three hundred twenty
+321,three hundred twenty-one
+322,three hundred twenty-two
+323,three hundred twenty-three
+324,three hundred twenty-four
+325,three hundred twenty-five
+326,three hundred twenty-six
+327,three hundred twenty-seven
+328,three hundred twenty-eight
+329,three hundred twenty-nine
+330,three hundred thirty
+331,three hundred thirty-one
+332,three hundred thirty-two
+333,three hundred thirty-three
+334,three hundred thirty-four
+335,three hundred thirty-five
+336,three hundred thirty-six
+337,three hundred thirty-seven
+338,three hundred thirty-eight
+339,three hundred thirty-nine
+340,three hundred forty
+341,three hundred forty-one
+342,three hundred forty-two
+343,three hundred forty-three
+344,three hundred forty-four
+345,three hundred forty-five
+346,three hundred forty-six
+347,three hundred forty-seven
+348,three hundred forty-eight
+349,three hundred forty-nine
+350,three hundred fifty
+351,three hundred fifty-one
+352,three hundred fifty-two
+353,three hundred fifty-three
+354,three hundred fifty-four
+355,three hundred fifty-five
+356,three hundred fifty-six
+357,three hundred fifty-seven
+358,three hundred fifty-eight
+359,three hundred fifty-nine
+360,three hundred sixty
+361,three hundred sixty-one
+362,three hundred sixty-two
+363,three hundred sixty-three
+364,three hundred sixty-four
+365,three hundred sixty-five
+366,three hundred sixty-six
+367,three hundred sixty-seven
+368,three hundred sixty-eight
+369,three hundred sixty-nine
+370,three hundred seventy
+371,three hundred seventy-one
+372,three hundred seventy-two
+373,three hundred seventy-three
+374,three hundred seventy-four
+375,three hundred seventy-five
+376,three hundred seventy-six
+377,three hundred seventy-seven
+378,three hundred seventy-eight
+379,three hundred seventy-nine
+380,three hundred eighty
+381,three hundred eighty-one
+382,three hundred eighty-two
+383,three hundred eighty-three
+384,three hundred eighty-four
+385,three hundred eighty-five
+386,three hundred eighty-six
+387,three hundred eighty-seven
+388,three hundred eighty-eight
+389,three hundred eighty-nine
+390,three hundred ninety
+391,three hundred ninety-one
+392,three hundred ninety-two
+393,three hundred ninety-three
+394,three hundred ninety-four
+395,three hundred ninety-five
+396,three hundred ninety-six
+397,three hundred ninety-seven
+398,three hundred ninety-eight
+399,three hundred ninety-nine
+400,four hundred
+401,four hundred one
+402,four hundred two
+403,four hundred three
+404,four hundred four
+405,four hundred five
+406,four hundred six
+407,four hundred seven
+408,four hundred eight
+409,four hundred nine
+410,four hundred ten
+411,four hundred eleven
+412,four hundred twelve
+413,four hundred thirteen
+414,four hundred fourteen
+415,four hundred fifteen
+416,four hundred sixteen
+417,four hundred seventeen
+418,four hundred eighteen
+419,four hundred nineteen
+420,four hundred twenty
+421,four hundred twenty-one
+422,four hundred twenty-two
+423,four hundred twenty-three
+424,four hundred twenty-four
+425,four hundred twenty-five
+426,four hundred twenty-six
+427,four hundred twenty-seven
+428,four hundred twenty-eight
+429,four hundred twenty-nine
+430,four hundred thirty
+431,four hundred thirty-one
+432,four hundred thirty-two
+433,four hundred thirty-three
+434,four hundred thirty-four
+435,four hundred thirty-five
+436,four hundred thirty-six
+437,four hundred thirty-seven
+438,four hundred thirty-eight
+439,four hundred thirty-nine
+440,four hundred forty
+441,four hundred forty-one
+442,four hundred forty-two
+443,four hundred forty-three
+444,four hundred forty-four
+445,four hundred forty-five
+446,four hundred forty-six
+447,four hundred forty-seven
+448,four hundred forty-eight
+449,four hundred forty-nine
+450,four hundred fifty
+451,four hundred fifty-one
+452,four hundred fifty-two
+453,four hundred fifty-three
+454,four hundred fifty-four
+455,four hundred fifty-five
+456,four hundred fifty-six
+457,four hundred fifty-seven
+458,four hundred fifty-eight
+459,four hundred fifty-nine
+460,four hundred sixty
+461,four hundred sixty-one
+462,four hundred sixty-two
+463,four hundred sixty-three
+464,four hundred sixty-four
+465,four hundred sixty-five
+466,four hundred sixty-six
+467,four hundred sixty-seven
+468,four hundred sixty-eight
+469,four hundred sixty-nine
+470,four hundred seventy
+471,four hundred seventy-one
+472,four hundred seventy-two
+473,four hundred seventy-three
+474,four hundred seventy-four
+475,four hundred seventy-five
+476,four hundred seventy-six
+477,four hundred seventy-seven
+478,four hundred seventy-eight
+479,four hundred seventy-nine
+480,four hundred eighty
+481,four hundred eighty-one
+482,four hundred eighty-two
+483,four hundred eighty-three
+484,four hundred eighty-four
+485,four hundred eighty-five
+486,four hundred eighty-six
+487,four hundred eighty-seven
+488,four hundred eighty-eight
+489,four hundred eighty-nine
+490,four hundred ninety
+491,four hundred ninety-one
+492,four hundred ninety-two
+493,four hundred ninety-three
+494,four hundred ninety-four
+495,four hundred ninety-five
+496,four hundred ninety-six
+497,four hundred ninety-seven
+498,four hundred ninety-eight
+499,four hundred ninety-nine
+500,five hundred
+501,five hundred one
+502,five hundred two
+503,five hundred three
+504,five hundred four
+505,five hundred five
+506,five hundred six
+507,five hundred seven
+508,five hundred eight
+509,five hundred nine
+510,five hundred ten
+511,five hundred eleven
+512,five hundred twelve
+513,five hundred thirteen
+514,five hundred fourteen
+515,five hundred fifteen
+516,five hundred sixteen
+517,five hundred seventeen
+518,five hundred eighteen
+519,five hundred nineteen
+520,five hundred twenty
+521,five hundred twenty-one
+522,five hundred twenty-two
+523,five hundred twenty-three
+524,five hundred twenty-four
+525,five hundred twenty-five
+526,five hundred twenty-six
+527,five hundred twenty-seven
+528,five hundred twenty-eight
+529,five hundred twenty-nine
+530,five hundred thirty
+531,five hundred thirty-one
+532,five hundred thirty-two
+533,five hundred thirty-three
+534,five hundred thirty-four
+535,five hundred thirty-five
+536,five hundred thirty-six
+537,five hundred thirty-seven
+538,five hundred thirty-eight
+539,five hundred thirty-nine
+540,five hundred forty
+541,five hundred forty-one
+542,five hundred forty-two
+543,five hundred forty-three
+544,five hundred forty-four
+545,five hundred forty-five
+546,five hundred forty-six
+547,five hundred forty-seven
+548,five hundred forty-eight
+549,five hundred forty-nine
+550,five hundred fifty
+551,five hundred fifty-one
+552,five hundred fifty-two
+553,five hundred fifty-three
+554,five hundred fifty-four
+555,five hundred fifty-five
+556,five hundred fifty-six
+557,five hundred fifty-seven
+558,five hundred fifty-eight
+559,five hundred fifty-nine
+560,five hundred sixty
+561,five hundred sixty-one
+562,five hundred sixty-two
+563,five hundred sixty-three
+564,five hundred sixty-four
+565,five hundred sixty-five
+566,five hundred sixty-six
+567,five hundred sixty-seven
+568,five hundred sixty-eight
+569,five hundred sixty-nine
+570,five hundred seventy
+571,five hundred seventy-one
+572,five hundred seventy-two
+573,five hundred seventy-three
+574,five hundred seventy-four
+575,five hundred seventy-five
+576,five hundred seventy-six
+577,five hundred seventy-seven
+578,five hundred seventy-eight
+579,five hundred seventy-nine
+580,five hundred eighty
+581,five hundred eighty-one
+582,five hundred eighty-two
+583,five hundred eighty-three
+584,five hundred eighty-four
+585,five hundred eighty-five
+586,five hundred eighty-six
+587,five hundred eighty-seven
+588,five hundred eighty-eight
+589,five hundred eighty-nine
+590,five hundred ninety
+591,five hundred ninety-one
+592,five hundred ninety-two
+593,five hundred ninety-three
+594,five hundred ninety-four
+595,five hundred ninety-five
+596,five hundred ninety-six
+597,five hundred ninety-seven
+598,five hundred ninety-eight
+599,five hundred ninety-nine
+600,six hundred
+601,six hundred one
+602,six hundred two
+603,six hundred three
+604,six hundred four
+605,six hundred five
+606,six hundred six
+607,six hundred seven
+608,six hundred eight
+609,six hundred nine
+610,six hundred ten
+611,six hundred eleven
+612,six hundred twelve
+613,six hundred thirteen
+614,six hundred fourteen
+615,six hundred fifteen
+616,six hundred sixteen
+617,six hundred seventeen
+618,six hundred eighteen
+619,six hundred nineteen
+620,six hundred twenty
+621,six hundred twenty-one
+622,six hundred twenty-two
+623,six hundred twenty-three
+624,six hundred twenty-four
+625,six hundred twenty-five
+626,six hundred twenty-six
+627,six hundred twenty-seven
+628,six hundred twenty-eight
+629,six hundred twenty-nine
+630,six hundred thirty
+631,six hundred thirty-one
+632,six hundred thirty-two
+633,six hundred thirty-three
+634,six hundred thirty-four
+635,six hundred thirty-five
+636,six hundred thirty-six
+637,six hundred thirty-seven
+638,six hundred thirty-eight
+639,six hundred thirty-nine
+640,six hundred forty
+641,six hundred forty-one
+642,six hundred forty-two
+643,six hundred forty-three
+644,six hundred forty-four
+645,six hundred forty-five
+646,six hundred forty-six
+647,six hundred forty-seven
+648,six hundred forty-eight
+649,six hundred forty-nine
+650,six hundred fifty
+651,six hundred fifty-one
+652,six hundred fifty-two
+653,six hundred fifty-three
+654,six hundred fifty-four
+655,six hundred fifty-five
+656,six hundred fifty-six
+657,six hundred fifty-seven
+658,six hundred fifty-eight
+659,six hundred fifty-nine
+660,six hundred sixty
+661,six hundred sixty-one
+662,six hundred sixty-two
+663,six hundred sixty-three
+664,six hundred sixty-four
+665,six hundred sixty-five
+666,six hundred sixty-six
+667,six hundred sixty-seven
+668,six hundred sixty-eight
+669,six hundred sixty-nine
+670,six hundred seventy
+671,six hundred seventy-one
+672,six hundred seventy-two
+673,six hundred seventy-three
+674,six hundred seventy-four
+675,six hundred seventy-five
+676,six hundred seventy-six
+677,six hundred seventy-seven
+678,six hundred seventy-eight
+679,six hundred seventy-nine
+680,six hundred eighty
+681,six hundred eighty-one
+682,six hundred eighty-two
+683,six hundred eighty-three
+684,six hundred eighty-four
+685,six hundred eighty-five
+686,six hundred eighty-six
+687,six hundred eighty-seven
+688,six hundred eighty-eight
+689,six hundred eighty-nine
+690,six hundred ninety
+691,six hundred ninety-one
+692,six hundred ninety-two
+693,six hundred ninety-three
+694,six hundred ninety-four
+695,six hundred ninety-five
+696,six hundred ninety-six
+697,six hundred ninety-seven
+698,six hundred ninety-eight
+699,six hundred ninety-nine
+700,seven hundred
+701,seven hundred one
+702,seven hundred two
+703,seven hundred three
+704,seven hundred four
+705,seven hundred five
+706,seven hundred six
+707,seven hundred seven
+708,seven hundred eight
+709,seven hundred nine
+710,seven hundred ten
+711,seven hundred eleven
+712,seven hundred twelve
+713,seven hundred thirteen
+714,seven hundred fourteen
+715,seven hundred fifteen
+716,seven hundred sixteen
+717,seven hundred seventeen
+718,seven hundred eighteen
+719,seven hundred nineteen
+720,seven hundred twenty
+721,seven hundred twenty-one
+722,seven hundred twenty-two
+723,seven hundred twenty-three
+724,seven hundred twenty-four
+725,seven hundred twenty-five
+726,seven hundred twenty-six
+727,seven hundred twenty-seven
+728,seven hundred twenty-eight
+729,seven hundred twenty-nine
+730,seven hundred thirty
+731,seven hundred thirty-one
+732,seven hundred thirty-two
+733,seven hundred thirty-three
+734,seven hundred thirty-four
+735,seven hundred thirty-five
+736,seven hundred thirty-six
+737,seven hundred thirty-seven
+738,seven hundred thirty-eight
+739,seven hundred thirty-nine
+740,seven hundred forty
+741,seven hundred forty-one
+742,seven hundred forty-two
+743,seven hundred forty-three
+744,seven hundred forty-four
+745,seven hundred forty-five
+746,seven hundred forty-six
+747,seven hundred forty-seven
+748,seven hundred forty-eight
+749,seven hundred forty-nine
+750,seven hundred fifty
+751,seven hundred fifty-one
+752,seven hundred fifty-two
+753,seven hundred fifty-three
+754,seven hundred fifty-four
+755,seven hundred fifty-five
+756,seven hundred fifty-six
+757,seven hundred fifty-seven
+758,seven hundred fifty-eight
+759,seven hundred fifty-nine
+760,seven hundred sixty
+761,seven hundred sixty-one
+762,seven hundred sixty-two
+763,seven hundred sixty-three
+764,seven hundred sixty-four
+765,seven hundred sixty-five
+766,seven hundred sixty-six
+767,seven hundred sixty-seven
+768,seven hundred sixty-eight
+769,seven hundred sixty-nine
+770,seven hundred seventy
+771,seven hundred seventy-one
+772,seven hundred seventy-two
+773,seven hundred seventy-three
+774,seven hundred seventy-four
+775,seven hundred seventy-five
+776,seven hundred seventy-six
+777,seven hundred seventy-seven
+778,seven hundred seventy-eight
+779,seven hundred seventy-nine
+780,seven hundred eighty
+781,seven hundred eighty-one
+782,seven hundred eighty-two
+783,seven hundred eighty-three
+784,seven hundred eighty-four
+785,seven hundred eighty-five
+786,seven hundred eighty-six
+787,seven hundred eighty-seven
+788,seven hundred eighty-eight
+789,seven hundred eighty-nine
+790,seven hundred ninety
+791,seven hundred ninety-one
+792,seven hundred ninety-two
+793,seven hundred ninety-three
+794,seven hundred ninety-four
+795,seven hundred ninety-five
+796,seven hundred ninety-six
+797,seven hundred ninety-seven
+798,seven hundred ninety-eight
+799,seven hundred ninety-nine
+800,eight hundred
+801,eight hundred one
+802,eight hundred two
+803,eight hundred three
+804,eight hundred four
+805,eight hundred five
+806,eight hundred six
+807,eight hundred seven
+808,eight hundred eight
+809,eight hundred nine
+810,eight hundred ten
+811,eight hundred eleven
+812,eight hundred twelve
+813,eight hundred thirteen
+814,eight hundred fourteen
+815,eight hundred fifteen
+816,eight hundred sixteen
+817,eight hundred seventeen
+818,eight hundred eighteen
+819,eight hundred nineteen
+820,eight hundred twenty
+821,eight hundred twenty-one
+822,eight hundred twenty-two
+823,eight hundred twenty-three
+824,eight hundred twenty-four
+825,eight hundred twenty-five
+826,eight hundred twenty-six
+827,eight hundred twenty-seven
+828,eight hundred twenty-eight
+829,eight hundred twenty-nine
+830,eight hundred thirty
+831,eight hundred thirty-one
+832,eight hundred thirty-two
+833,eight hundred thirty-three
+834,eight hundred thirty-four
+835,eight hundred thirty-five
+836,eight hundred thirty-six
+837,eight hundred thirty-seven
+838,eight hundred thirty-eight
+839,eight hundred thirty-nine
+840,eight hundred forty
+841,eight hundred forty-one
+842,eight hundred forty-two
+843,eight hundred forty-three
+844,eight hundred forty-four
+845,eight hundred forty-five
+846,eight hundred forty-six
+847,eight hundred forty-seven
+848,eight hundred forty-eight
+849,eight hundred forty-nine
+850,eight hundred fifty
+851,eight hundred fifty-one
+852,eight hundred fifty-two
+853,eight hundred fifty-three
+854,eight hundred fifty-four
+855,eight hundred fifty-five
+856,eight hundred fifty-six
+857,eight hundred fifty-seven
+858,eight hundred fifty-eight
+859,eight hundred fifty-nine
+860,eight hundred sixty
+861,eight hundred sixty-one
+862,eight hundred sixty-two
+863,eight hundred sixty-three
+864,eight hundred sixty-four
+865,eight hundred sixty-five
+866,eight hundred sixty-six
+867,eight hundred sixty-seven
+868,eight hundred sixty-eight
+869,eight hundred sixty-nine
+870,eight hundred seventy
+871,eight hundred seventy-one
+872,eight hundred seventy-two
+873,eight hundred seventy-three
+874,eight hundred seventy-four
+875,eight hundred seventy-five
+876,eight hundred seventy-six
+877,eight hundred seventy-seven
+878,eight hundred seventy-eight
+879,eight hundred seventy-nine
+880,eight hundred eighty
+881,eight hundred eighty-one
+882,eight hundred eighty-two
+883,eight hundred eighty-three
+884,eight hundred eighty-four
+885,eight hundred eighty-five
+886,eight hundred eighty-six
+887,eight hundred eighty-seven
+888,eight hundred eighty-eight
+889,eight hundred eighty-nine
+890,eight hundred ninety
+891,eight hundred ninety-one
+892,eight hundred ninety-two
+893,eight hundred ninety-three
+894,eight hundred ninety-four
+895,eight hundred ninety-five
+896,eight hundred ninety-six
+897,eight hundred ninety-seven
+898,eight hundred ninety-eight
+899,eight hundred ninety-nine
+900,nine hundred
+901,nine hundred one
+902,nine hundred two
+903,nine hundred three
+904,nine hundred four
+905,nine hundred five
+906,nine hundred six
+907,nine hundred seven
+908,nine hundred eight
+909,nine hundred nine
+910,nine hundred ten
+911,nine hundred eleven
+912,nine hundred twelve
+913,nine hundred thirteen
+914,nine hundred fourteen
+915,nine hundred fifteen
+916,nine hundred sixteen
+917,nine hundred seventeen
+918,nine hundred eighteen
+919,nine hundred nineteen
+920,nine hundred twenty
+921,nine hundred twenty-one
+922,nine hundred twenty-two
+923,nine hundred twenty-three
+924,nine hundred twenty-four
+925,nine hundred twenty-five
+926,nine hundred twenty-six
+927,nine hundred twenty-seven
+928,nine hundred twenty-eight
+929,nine hundred twenty-nine
+930,nine hundred thirty
+931,nine hundred thirty-one
+932,nine hundred thirty-two
+933,nine hundred thirty-three
+934,nine hundred thirty-four
+935,nine hundred thirty-five
+936,nine hundred thirty-six
+937,nine hundred thirty-seven
+938,nine hundred thirty-eight
+939,nine hundred thirty-nine
+940,nine hundred forty
+941,nine hundred forty-one
+942,nine hundred forty-two
+943,nine hundred forty-three
+944,nine hundred forty-four
+945,nine hundred forty-five
+946,nine hundred forty-six
+947,nine hundred forty-seven
+948,nine hundred forty-eight
+949,nine hundred forty-nine
+950,nine hundred fifty
+951,nine hundred fifty-one
+952,nine hundred fifty-two
+953,nine hundred fifty-three
+954,nine hundred fifty-four
+955,nine hundred fifty-five
+956,nine hundred fifty-six
+957,nine hundred fifty-seven
+958,nine hundred fifty-eight
+959,nine hundred fifty-nine
+960,nine hundred sixty
+961,nine hundred sixty-one
+962,nine hundred sixty-two
+963,nine hundred sixty-three
+964,nine hundred sixty-four
+965,nine hundred sixty-five
+966,nine hundred sixty-six
+967,nine hundred sixty-seven
+968,nine hundred sixty-eight
+969,nine hundred sixty-nine
+970,nine hundred seventy
+971,nine hundred seventy-one
+972,nine hundred seventy-two
+973,nine hundred seventy-three
+974,nine hundred seventy-four
+975,nine hundred seventy-five
+976,nine hundred seventy-six
+977,nine hundred seventy-seven
+978,nine hundred seventy-eight
+979,nine hundred seventy-nine
+980,nine hundred eighty
+981,nine hundred eighty-one
+982,nine hundred eighty-two
+983,nine hundred eighty-three
+984,nine hundred eighty-four
+985,nine hundred eighty-five
+986,nine hundred eighty-six
+987,nine hundred eighty-seven
+988,nine hundred eighty-eight
+989,nine hundred eighty-nine
+990,nine hundred ninety
+991,nine hundred ninety-one
+992,nine hundred ninety-two
+993,nine hundred ninety-three
+994,nine hundred ninety-four
+995,nine hundred ninety-five
+996,nine hundred ninety-six
+997,nine hundred ninety-seven
+998,nine hundred ninety-eight
+999,nine hundred ninety-nine
+1000,one thousand
+10000, ten thousand
+100000, one hundred thousand
+1000000, one million
+10000000, ten million
+100000000, one hundred million
+1000000000, one billion
+20000, twenty thousand
+100000, one hundred thousand
+100000000, one hundred million
+900000000, nine hundred million
+2000000001, two billion one
+2010101001, two billion ten million one hundred one thousand one
+2101010101, two billion one hundred one million ten thousand one hundred one
+2000100000, two billion one hundred thousand
+1000090000, one billion ninety thousand
+190001, one hundred ninety thousand one
+9999, nine thousand nine hundred ninety-nine
+99999, ninety-nine thousand nine hundred ninety-nine
+999999, nine hundred ninety-nine thousand nine hundred ninety-nine
+9999999, nine million nine hundred ninety-nine thousand nine hundred ninety-nine
+99999999, ninety-nine million nine hundred ninety-nine thousand nine hundred ninety-nine
+999999999, nine hundred ninety-nine million nine hundred ninety-nine thousand nine hundred ninety-nine
